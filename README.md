@@ -1,25 +1,25 @@
-# 👋 Hi, I'm Joshua Kaplan
+# Hi, I'm Joshua Kaplan
 
 I'm a Data Scientist based in New York City, focused on transforming complex, messy datasets into meaningful insights and data-driven strategy. With a background in supply chain optimization and revenue analytics, I enjoy building interpretable models, engaging dashboards, and solutions that drive business value.
 
-## 🧠 Expertise
+## Expertise
 - **Languages**: Python, SQL, R  
 - **Libraries & Tools**: Pandas, Scikit-learn, Plotly, Power BI, Tableau, PyTorch  
 - **Other**: Metabase, NetSuite, Adobe Creative Suite
 
-## 🚀 Featured Project
+## Featured Project
 
-- **💸 Salary vs. Success Across Sports**  
+- ** Salary vs. Success Across Sports**  
   A cross-league comparison of payroll efficiency in the NBA, NFL, and MLB, visualizing how spending relates to championships and win percentage.  
   [🔗 View Project](https://github.com/jjoshkaplan/jjoshkaplan.github.io)
 
-## 💼 Professional Experience
+## Professional Experience
 - **Senior Manager, Operation Analytics and Strategy** – [Taylor Creative Inc.]  
   Driving strategic analytics initiatives across revenue, product, and operations optimization.
 - **Supply Chain Manager** – [KeyMe]  
   Managed and analyzed global supply chain to drive cost savings and increase operational visibility.
 
-## 🎓 Education
+## Education
 - **University of Michigan – School of Information**  
   *Master of Applied Data Science*  
 - **University of Maryland – Robert H. Smith School of Business**  
