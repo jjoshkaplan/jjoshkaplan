@@ -9,7 +9,7 @@ I'm a Data Scientist based in New York City, focused on transforming complex, me
 
 ## Featured Project
 
-- ** Salary vs. Success Across Sports**  
+- **Salary vs. Success Across Sports**  
   A cross-league comparison of payroll efficiency in the NBA, NFL, and MLB, visualizing how spending relates to championships and win percentage.  
   [🔗 View Project](https://github.com/jjoshkaplan/jjoshkaplan.github.io)
 
