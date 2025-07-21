@@ -14,9 +14,9 @@ I'm a Data Scientist based in New York City, focused on transforming complex, me
   [🔗 View Project](https://github.com/jjoshkaplan/jjoshkaplan.github.io)
 
 ## Professional Experience
-- **Senior Manager, Operation Analytics and Strategy** – [Taylor Creative Inc.](https://www.taylorcreativeinc.com/)
+- **Senior Manager, Operation Analytics and Strategy** – [Taylor Creative Inc.](https://www.taylorcreativeinc.com/)   
   Driving strategic analytics initiatives across revenue, product, and operations optimization.
-- **Supply Chain Manager** – [KeyMe](https://key.me/)
+- **Supply Chain Manager** – [KeyMe](https://key.me/)   
   Managed and analyzed global supply chain to drive cost savings and increase operational visibility.
 
 ## Education
