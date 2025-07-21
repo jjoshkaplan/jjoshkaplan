@@ -25,10 +25,10 @@ I'm a Data Scientist based in New York City, focused on transforming complex, me
 - **University of Maryland – Robert H. Smith School of Business**  
   *B.S. in Supply Chain Management & Marketing*
 
-## 💬 Personal Interests
+## Personal Interests
 
 When I'm not building models or dashboards, you'll find me diving deep into basketball analytics—especially the NBA. I'm a long-time Celtics fan (despite living in NYC) and an avid collector of NBA Top Shot moments [Collection](https://nbatopshot.com/user/@SplashAttack). Outside of hoops, I’m a dedicated snowboarder, and I spend as much time as I can riding the powder in Steamboat Springs, Colorado. 
 
-## 📫 Let's Connect  
+## Let's Connect  
 📧 joshuamichaelkaplan@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/josh-kaplan/)
