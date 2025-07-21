@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Joshua Kaplan
 
-<!--
-**jjoshkaplan/jjoshkaplan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As a Data Scientist based in NYC, I'm passionate about transforming messy data into meaningful insights crafting a targeted strategy.
 
-Here are some ideas to get you started:
+## Expertise
+- **Languages**: Python, SQL, R
+- **Tools**: Pandas, Scikit-learn, Plotly, Power BI, Tableau, PyTorch
+- **Other**: Metabase, NetSuite, Adobe Creative Suite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+  
+- **Salary vs. Success Across Sports**  
+  Cross-league comparison of payroll efficiency in the NBA, NFL, and MLB. [View project](https://github.com/jjoshkaplan/jjoshkaplan.github.io)
+
+## Let's Connect
+📧 joshuamichaelkaplan@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/josh-kaplan/)  
