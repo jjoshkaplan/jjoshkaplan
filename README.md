@@ -1,17 +1,34 @@
-# Hi, I'm Joshua Kaplan
+# 👋 Hi, I'm Joshua Kaplan
 
-As a Data Scientist based in NYC, I'm passionate about transforming messy data into meaningful insights crafting a targeted strategy.
+I'm a Data Scientist based in New York City, focused on transforming complex, messy datasets into meaningful insights and data-driven strategy. With a background in supply chain optimization and revenue analytics, I enjoy building interpretable models, engaging dashboards, and solutions that drive business value.
 
-## Expertise
-- **Languages**: Python, SQL, R
-- **Tools**: Pandas, Scikit-learn, Plotly, Power BI, Tableau, PyTorch
+## 🧠 Expertise
+- **Languages**: Python, SQL, R  
+- **Libraries & Tools**: Pandas, Scikit-learn, Plotly, Power BI, Tableau, PyTorch  
 - **Other**: Metabase, NetSuite, Adobe Creative Suite
 
-## Featured Projects
-  
-- **Salary vs. Success Across Sports**  
-  Cross-league comparison of payroll efficiency in the NBA, NFL, and MLB. [View project](https://github.com/jjoshkaplan/jjoshkaplan.github.io)
+## 🚀 Featured Project
 
-## Let's Connect
+- **💸 Salary vs. Success Across Sports**  
+  A cross-league comparison of payroll efficiency in the NBA, NFL, and MLB, visualizing how spending relates to championships and win percentage.  
+  [🔗 View Project](https://github.com/jjoshkaplan/jjoshkaplan.github.io)
+
+## 💼 Professional Experience
+- **Senior Manager, Operation Analytics and Strategy** – [Taylor Creative Inc.]  
+  Driving strategic analytics initiatives across revenue, product, and operations optimization.
+- **Supply Chain Manager** – [KeyMe]  
+  Managed and analyzed global supply chain to drive cost savings and increase operational visibility.
+
+## 🎓 Education
+- **University of Michigan – School of Information**  
+  *Master of Applied Data Science*  
+- **University of Maryland – Robert H. Smith School of Business**  
+  *B.S. in Supply Chain Management & Marketing*
+
+## 💬 Personal Interests
+
+When I'm not building models or dashboards, you'll find me diving deep into basketball analytics—especially the NBA. I'm a long-time Celtics fan (despite living in NYC) and an avid collector of NBA Top Shot moments [Collection](https://nbatopshot.com/user/@SplashAttack). Outside of hoops, I’m a dedicated snowboarder, and I spend as much time as I can riding the powder in Steamboat Springs, Colorado. 
+
+## 📫 Let's Connect  
 📧 joshuamichaelkaplan@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/josh-kaplan/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/josh-kaplan/)
