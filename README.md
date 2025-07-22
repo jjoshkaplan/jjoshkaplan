@@ -1,6 +1,6 @@
 # Hi, I'm Josh
 
-I'm a Data Scientist based in New York City, focused on transforming complex, messy datasets into meaningful insights and data-driven strategy. With a background in supply chain optimization and revenue analytics, I enjoy building interpretable models, engaging dashboards, and solutions that drive business value.
+I enjoy on transforming complex, messy datasets into meaningful insights and data-driven strategy. With a background in supply chain optimization and analytics, I enjoy building interpretable models, engaging dashboards, and solutions that drive business value.
 
 ## Expertise
 - **Languages**: Python, SQL, R  
