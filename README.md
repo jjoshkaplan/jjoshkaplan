@@ -11,7 +11,7 @@ I enjoy on transforming complex, messy datasets into meaningful insights and dat
 
 - **Salary vs. Success Across Sports**  
   A cross-league comparison of payroll efficiency in the NBA, NFL, and MLB, visualizing how spending relates to championships and win percentage.  
-  [🔗 View Project]([(https://nashafa.com/mads-capstone/)](https://nashafa.com/mads-capstone/))
+  [[🔗 View Project]](https://nashafa.com/mads-capstone/)
 
 ## Professional Experience
 - **Senior Manager, Operation Analytics and Strategy** – [Taylor Creative Inc.](https://www.taylorcreativeinc.com/)   
