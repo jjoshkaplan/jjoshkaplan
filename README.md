@@ -9,7 +9,7 @@ I enjoy transforming complex, messy datasets into meaningful insights and data-d
 ## Featured Projects
 - **Top Trainer – NBA TopShot Battle Game**
   A Pokémon-style RPG that transforms NBA TopShot NFT collections into playable rosters. Connect your wallet, watch your moments convert into multi-stat fighters via a hybrid XP engine, and battle through CPU opponents across five difficulty tiers — all wrapped in a Game Boy Advance aesthetic.
-  [[🎮 Play Now]](https:/splashsgame.com) | [[📖 About]](https://splashsgame.com/about.html)
+  [[🎮 Play Now]](https://splashsgame.com) | [[📖 About]](https://splashsgame.com/about.html)
 
 - **Salary vs. Success Across Sports**
   A cross-league comparison of payroll efficiency in the NBA, NFL, and MLB, visualizing how spending relates to championships and win percentage.
